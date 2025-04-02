@@ -1,0 +1,6 @@
+gradio
+google-generativeai
+requests
+dateparser
+geopy
+huggingface_hub
